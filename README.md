@@ -1,4 +1,4 @@
-### Hi there, I'm Vera - aka [Ricardina97] 👋
+### Hi there, I'm Vera - aka Sailor Saturn 🪐  
 
 
 ## I'm a Developer, Tutor, Student and QA!🦄
