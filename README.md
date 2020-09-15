@@ -37,7 +37,7 @@
 
 
 
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ricardina97&show_icons=true&theme=radical)
+ ![sailor-saturn github stats](https://github-readme-stats.vercel.app/api?username=sailor-saturn&show_icons=true&theme=radical)
 
 
 [linkedin]: https://www.linkedin.com/in/vera-ricardina-dias/
