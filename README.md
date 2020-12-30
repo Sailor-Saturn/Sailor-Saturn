@@ -1,7 +1,7 @@
 ### Hi there, I'm Vera - aka Sailor Saturn 🪐  
 
 
-## I'm a Developer, Tutor and Student!🦄
+## I'm a iOS developer, Tutor and Student!🦄
 
 - 🔭 I’m currently working on my React and React Native skill!
 - 🌱 I’m currently learning everything 🤣
