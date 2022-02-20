@@ -6,5 +6,6 @@
 - 🔭 I’m currently working on my React and React Native skill!
 - 🌱 I’m currently learning everything 
 - 🥅 2021 Goals: Improve my Swift skills
-- ⚡ Fun fact: I love to draw and taking Udemy courses
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=sailor-saturn&hide=html&layout=compact&theme=radical)](https://github.com/iuricode/)
 
