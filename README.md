@@ -42,5 +42,5 @@
 
 
 ## 📚 Currently reading
-* [Clean Code: A Handbook of Agile Software Craftsmanship - Robert Martin ](https://www.goodreads.com/book/show/3735293-clean-code)
+* [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/book/show/10284614-the-clean-coder)
 
