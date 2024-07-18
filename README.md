@@ -1,6 +1,5 @@
 
-![Neutral Creative Professional LinkedIn Article Cover Image-7](https://github.com/Sailor-Saturn/Sailor-Saturn/assets/46728174/ab2d45c6-b870-4e6d-9fdf-16c18ea3c311)
-
+![Neutral Creative Professional LinkedIn Article Cover Image-11](https://github.com/user-attachments/assets/6cc7f52a-4da3-4d6c-b192-1c574dac68e5)
 
 <h1 align="center">Hi! <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px"> I'm Vera </h1>
  <p align="center"><br/>
